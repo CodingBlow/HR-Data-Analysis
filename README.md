@@ -17,7 +17,15 @@
 3. Explore the visualizations and insights provided on key HR metrics.
 
 ## Live Dashboard:
-Check out the live version of the dashboard here: [Live HR Dashboard](https://lnkd.in/grXwCDf3)
+Check out the live version of the dashboard here: [Live HR Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzlkOTFjZjYtZDFjZS00NmZhLWI4NGMtNGVjZGE3YTZhNGZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+## Screenshots:
+Below is a preview of the HR Analysis Dashboard:
+
+![HR Dashboard Screenshot]()  
+*This is a sample screenshot of the dashboard displaying key HR metrics.*
+
+*(Make sure to replace "path_to_screenshot_image" with the actual path to your screenshot.)*
 
 ## Feedback & Suggestions:
 I’d love to hear your feedback or any suggestions for improvement! Feel free to reach out or drop a comment.
