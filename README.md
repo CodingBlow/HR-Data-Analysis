@@ -22,7 +22,7 @@ Check out the live version of the dashboard here: [Live HR Dashboard](https://ap
 ## Screenshots:
 Below is a preview of the HR Analysis Dashboard:
 
-![HR Dashboard Screenshot]()  
+![HR Dashboard Screenshot](https://github.com/user-attachments/assets/a0da5172-5961-4415-a462-1fb7acb2e1e5)  
 *This is a sample screenshot of the dashboard displaying key HR metrics.*
 
 *(Make sure to replace "path_to_screenshot_image" with the actual path to your screenshot.)*
